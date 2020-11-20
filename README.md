@@ -2,7 +2,7 @@
 
 - 🎓  Pursuing a Master of Computer Science @ UIUC
 - 📚  Bachelors in Statistics and Computer Science from University of Florida
-- 🔭  Interests in reverse engineering, statistics, machine learning, and game theory.
+- 🔭  Interests in reverse engineering, statistics, and game theory.
 - 🏠  Homepage at [taoling.dev](https://taoling.dev/).
 - 💬  My [resume](https://drive.google.com/file/d/1BS8t4patH_ZVAhj-ZsPkowxXX4QIqM9V/view).
 
