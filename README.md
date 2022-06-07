@@ -1,5 +1,6 @@
+Hi I'm Tao, I learned programming in middle school to automate tasks in the popular video game RuneScape and found my passion in technology.
 
-
+Fast Facts:
 - 🎓  Pursuing a Master of Computer Science @ UIUC
 - 📚  Bachelors in Statistics and Computer Science from University of Florida
 - 🔭  Interests in reverse engineering, design, and game theory.
