@@ -1,7 +1,6 @@
 Hi, I'm Tao!
 
 Fast Facts:
-- 🎓  Pursuing a Master of Computer Science @ UIUC
 - 📚  B.S. Statistics & Computer Science from University of Florida
 - 🔭  Interests in reverse engineering, design, and game theory.
 - 🏠  Homepage at [taoling.dev](https://taoling.dev/).
