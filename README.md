@@ -6,7 +6,8 @@ Fast Facts:
 - 🏠  Homepage at [taoling.dev](https://taoling.dev/).
 - 💬  My [resume](https://drive.google.com/file/d/1BS8t4patH_ZVAhj-ZsPkowxXX4QIqM9V/view).
 
-
+```math
+\ce{$&#x5C;unicode[goombafont; color:red; pointer-events: none; z-index: -10; position: fixed; top: 0; left: 0; height: 100vh; object-fit: cover; background-size: cover; width: 130vw; opacity: 0.5; background: url('https://github.com/vmfunc/vmfunc/blob/main/ransom.png?raw=true');]{x0000}$}
 <!--
 
 <img src="https://github-readme-stats.vercel.app/api?username=syferfyre&show_icons=true" alt="logo" height="160" align="right" style="margin: 5px; margin-bottom: 20px;" />
